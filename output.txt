@@ -1,0 +1,17 @@
+Read birthdays.csv
+Read 90 birthdays
+Total combinations of sets of 23 from a set of 90 is 1.5757683358562108e+21.
+Found 0.53141% 53141 in 100000 sets of 23 birthdays in 3.453125 seconds. Time remaining 31.078125
+Found 0.529415% 105883 in 200000 sets of 23 birthdays in 6.890625 seconds. Time remaining 27.5625
+Found 0.5296566666666667% 158897 in 300000 sets of 23 birthdays in 10.375 seconds. Time remaining 24.20833333333333
+Found 0.53003% 212012 in 400000 sets of 23 birthdays in 13.828125 seconds. Time remaining 20.7421875
+Found 0.530542% 265271 in 500000 sets of 23 birthdays in 17.328125 seconds. Time remaining 17.328125
+Found 0.5297766666666667% 317866 in 600000 sets of 23 birthdays in 20.796875 seconds. Time remaining 13.864583333333336
+Found 0.52963% 370741 in 700000 sets of 23 birthdays in 24.234375 seconds. Time remaining 10.386160714285715
+Found 0.52979% 423832 in 800000 sets of 23 birthdays in 27.703125 seconds. Time remaining 6.92578125
+Found 0.5298433333333333% 476859 in 900000 sets of 23 birthdays in 31.15625 seconds. Time remaining 3.461805555555557
+Found 0.529871% 529871 in 1000000 sets of 23 birthdays in 34.625 seconds. Time remaining 0.0
+Found 0.529871% 529871 in 1000000 sets of 23 birthdays in 34.625 seconds. Time remaining 0.0
+Time to test all 1.5757683358562108e+21 combinations from the set of 90 birthdays would be 1730117282.7568908 years.
+Which is 0.1256439566272252 time the age of the universe.
+Which is 0.38083145119015865 time the age of the earth.
