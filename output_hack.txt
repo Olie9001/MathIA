@@ -8,9 +8,9 @@ percentile 0.5, samples 23
 percentile 0.6, samples 26
 percentile 0.7, samples 30
 percentile 0.8, samples 34
-percentile 0.9, samples 41
-percentile 1.0, samples 182
-Percentile for hash bits 32
+percentile 0.9, samples 41        
+percentile 1.0, samples 182       
+Percentile for hash bits 32       
 Percentile for hash space 4.295e+9
 percentile 0.0, samples 8192
 percentile 0.1, samples 28672
@@ -59,24 +59,24 @@ Bits 256, p 0.9, samples 723100029706994234859671040792507449344
 Bits 384, p 0.9, samples 13338841187696696623151052524316291134217505319486073339904
 Bits 512, p 0.9, samples 246058189629296915275088343143461804188198717414486198583847366016815400484864
 Facebook data breach 540000000
-bits 32, probability 1.0, num tests 1.0, num days 4.1667e-11
-bits 40, probability 1.0, num tests 1.0, num days 4.1667e-11
-bits 48, probability 1.0, num tests 1.0, num days 4.1667e-11
-bits 64, probability 0.0078727, num tests 127.02, num days 5.2926e-9
-bits 96, probability 1.8403e-12, num tests 5.434e+11, num days 22.642
-bits 128, probability 4.2847e-22, num tests 2.3339e+21, num days 9.7246e+10
-bits 192, probability 2.3227e-41, num tests 4.3053e+40, num days 1.7939e+30
-bits 256, probability 1.2592e-60, num tests 7.9418e+59, num days 3.3091e+49
-bits 384, probability 3.7003e-99, num tests 2.7025e+98, num days 1.126e+88
-bits 512, probability 1.0874e-137, num tests 9.196e+136, num days 3.8317e+126
+bits 32, probability 1.0, num tests 1.0, num days 1.1574e-14, num years 3.171e-17
+bits 40, probability 1.0, num tests 1.0, num days 1.1574e-14, num years 3.171e-17
+bits 48, probability 1.0, num tests 1.0, num days 1.1574e-14, num years 3.171e-17
+bits 64, probability 0.0078727, num tests 127.02, num days 1.4702e-12, num years 4.0278e-15
+bits 96, probability 1.8403e-12, num tests 5.434e+11, num days 0.0062894, num years 1.7231e-5
+bits 128, probability 4.2847e-22, num tests 2.3339e+21, num days 2.7013e+7, num years 74007.0
+bits 192, probability 2.3227e-41, num tests 4.3053e+40, num days 4.983e+26, num years 1.3652e+24
+bits 256, probability 1.2592e-60, num tests 7.9418e+59, num days 9.1919e+45, num years 2.5183e+43
+bits 384, probability 3.7003e-99, num tests 2.7025e+98, num days 3.1279e+84, num years 8.5695e+81
+bits 512, probability 1.0874e-137, num tests 9.196e+136, num days 1.0644e+123, num years 2.916e+120
 Yahoo data breach 3000000000
-bits 32, probability 1.0, num tests 1.0, num days 4.1667e-11
-bits 40, probability 1.0, num tests 1.0, num days 4.1667e-11
-bits 48, probability 1.0, num tests 1.0, num days 4.1667e-11
-bits 64, probability 0.21647, num tests 4.6196, num days 1.9248e-10
-bits 96, probability 5.6798e-11, num tests 1.7606e+10, num days 0.73359
-bits 128, probability 1.3224e-20, num tests 7.5618e+19, num days 3.1508e+9
-bits 192, probability 7.1689e-40, num tests 1.3949e+39, num days 5.8121e+28
-bits 256, probability 3.8863e-59, num tests 2.5732e+58, num days 1.0721e+48
-bits 384, probability 1.1421e-97, num tests 8.756e+96, num days 3.6483e+86
-bits 512, probability 3.3563e-136, num tests 2.9795e+135, num days 1.2415e+125
+bits 32, probability 1.0, num tests 1.0, num days 1.1574e-14, num years 3.171e-17
+bits 40, probability 1.0, num tests 1.0, num days 1.1574e-14, num years 3.171e-17
+bits 48, probability 1.0, num tests 1.0, num days 1.1574e-14, num years 3.171e-17
+bits 64, probability 0.21647, num tests 4.6196, num days 5.3467e-14, num years 1.4649e-16
+bits 96, probability 5.6798e-11, num tests 1.7606e+10, num days 0.00020378, num years 5.5829e-7
+bits 128, probability 1.3224e-20, num tests 7.5618e+19, num days 8.7521e+5, num years 2397.8
+bits 192, probability 7.1689e-40, num tests 1.3949e+39, num days 1.6145e+25, num years 4.4232e+22
+bits 256, probability 3.8863e-59, num tests 2.5732e+58, num days 2.9782e+44, num years 8.1594e+41
+bits 384, probability 1.1421e-97, num tests 8.756e+96, num days 1.0134e+83, num years 2.7765e+80
+bits 512, probability 3.3563e-136, num tests 2.9795e+135, num days 3.4485e+121, num years 9.448e+118

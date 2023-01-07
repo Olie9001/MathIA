@@ -84,8 +84,9 @@ def printHackDetails(label,data_leak_size):
         num_tests = mpmath.mpf(1.0)/p
         num_seconds = num_tests/tests_per_second
         num_hours = num_seconds/(60.0*60.0)
-        num_days = num_seconds/(24.0)
-        print(f"bits {b}, probability {mpmath.nstr(p,5)}, num tests {mpmath.nstr(num_tests,5)}, num days {mpmath.nstr(num_days,5)}")
+        num_days = num_hours/(24.0)
+        num_years = num_days/(365.0)
+        print(f"bits {b}, probability {mpmath.nstr(p,5)}, num tests {mpmath.nstr(num_tests,5)}, num days {mpmath.nstr(num_days,5)}, num years {mpmath.nstr(num_years,5)}")
 
 
 calcCollisionProbability(365,23)
@@ -97,8 +98,16 @@ printPercentilesBits(128)
 printSamplesForHashSizes(0.5)
 printSamplesForHashSizes(0.9)
 
-
+# https://dataprot.net/articles/biggest-data-breaches/
+# Facebook 
+# Year of breach: 2019
+# Data breached: 540 million records
 facebookLeakSize = 540000000
+
+# Yahoo
+# Year of breach: 2013 - 2016
+# Data breached: 3 billion user accounts
+# https://asamborski.github.io/cs558_s17_blog/2017/04/02/yahoo.html
 yahooLeakSize =    3000000000
 
 printHackDetails('Facebook',facebookLeakSize)
