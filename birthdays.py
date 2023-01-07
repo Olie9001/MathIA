@@ -13,7 +13,7 @@ num_birthdays = 0           # number of birthdays in the csv file
 num_birthdays_sets = 0      # number of birthday sets tested so far
 num_birthday_match = 0      # number of tests where two birthdays are the same
 info_step = 100000          # print current info every n tests
-max_steps = 1000000         # total number of tests 
+max_steps = 10000000         # total number of tests 
 total_combinations = 0.0    # calculated number of combinations we can make from the birthdays csv    
 elapsed_time = 0.0          # current elapsed running time for test
 
@@ -77,9 +77,14 @@ total_combinations_time_y = (total_combinations*one_step_time)/(60*60*24*365)
 
 age_of_the_universe = 13770000000
 age_of_the_earth = 4543000000
+age_of_humans = 300000
 total_combinations_time_aou = total_combinations_time_y/age_of_the_universe
 total_combinations_time_aoe = total_combinations_time_y/age_of_the_earth
+total_combinations_time_aoh = total_combinations_time_y/age_of_humans
 
+print(f"elapsed time {elapsed_time}, num steps {max_steps}")
+print(f"Time to test all {total_combinations} combinations from the set of {num_birthdays} birthdays would be {total_combinations_time} seconds.")
 print(f"Time to test all {total_combinations} combinations from the set of {num_birthdays} birthdays would be {total_combinations_time_y} years.")
 print(f"Which is {total_combinations_time_aou} time the age of the universe.")
 print(f"Which is {total_combinations_time_aoe} time the age of the earth.")
+print(f"Which is {total_combinations_time_aoh} time the age of the humans.")

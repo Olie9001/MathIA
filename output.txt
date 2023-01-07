@@ -1,17 +1,130 @@
 Read birthdays.csv
+Found 0.527295% 105459 in 200000 sets of 23 birthdays in 4.109375 seconds. Time remaining 16.4375
+Found 0.5276533333333333% 158296 in 300000 sets of 23 birthdays in 6.359375 seconds. Time remaining 14.838541666666664
+Found 0.5279025% 211161 in 400000 sets of 23 birthdays in 9.203125 seconds. Time remaining 13.8046875
+Found 0.527632% 263816 in 500000 sets of 23 birthdays in 11.796875 seconds. Time remaining 11.796875
+Found 0.5278816666666667% 316729 in 600000 sets of 23 birthdays in 13.890625 seconds. Time remaining 9.260416666666668
+Found 0.5279571428571429% 369570 in 700000 sets of 23 birthdays in 16.09375 seconds. Time remaining 6.897321428571431
+Found 0.5277925% 422234 in 800000 sets of 23 birthdays in 18.171875 seconds. Time remaining 4.54296875
+Found 0.5277611111111111% 474985 in 900000 sets of 23 birthdays in 20.296875 seconds. Time remaining 2.255208333333332
+Found 0.527844% 527844 in 1000000 sets of 23 birthdays in 22.828125 seconds. Time remaining 0.0
+Found 0.527844% 527844 in 1000000 sets of 23 birthdays in 22.828125 seconds. Time remaining 0.0
+elapsed time 22.828125, num steps 1000000
+Time to test all 1.5757683358562108e+21 combinations from the set of 90 birthdays would be 3.5971836541967564e+16 seconds.
+Time to test all 1.5757683358562108e+21 combinations from the set of 90 birthdays would be 1140659454.019773 years.
+Which is 0.08283656165720937 time the age of the universe.
+Which is 0.2510806634426091 time the age of the earth.
+Which is 3802.19818006591 time the age of the humans.
+
+
+
+Read birthdays.csv
 Read 90 birthdays
 Total combinations of sets of 23 from a set of 90 is 1.5757683358562108e+21.
-Found 0.53141% 53141 in 100000 sets of 23 birthdays in 3.453125 seconds. Time remaining 31.078125
-Found 0.529415% 105883 in 200000 sets of 23 birthdays in 6.890625 seconds. Time remaining 27.5625
-Found 0.5296566666666667% 158897 in 300000 sets of 23 birthdays in 10.375 seconds. Time remaining 24.20833333333333
-Found 0.53003% 212012 in 400000 sets of 23 birthdays in 13.828125 seconds. Time remaining 20.7421875
-Found 0.530542% 265271 in 500000 sets of 23 birthdays in 17.328125 seconds. Time remaining 17.328125
-Found 0.5297766666666667% 317866 in 600000 sets of 23 birthdays in 20.796875 seconds. Time remaining 13.864583333333336
-Found 0.52963% 370741 in 700000 sets of 23 birthdays in 24.234375 seconds. Time remaining 10.386160714285715
-Found 0.52979% 423832 in 800000 sets of 23 birthdays in 27.703125 seconds. Time remaining 6.92578125
-Found 0.5298433333333333% 476859 in 900000 sets of 23 birthdays in 31.15625 seconds. Time remaining 3.461805555555557
-Found 0.529871% 529871 in 1000000 sets of 23 birthdays in 34.625 seconds. Time remaining 0.0
-Found 0.529871% 529871 in 1000000 sets of 23 birthdays in 34.625 seconds. Time remaining 0.0
-Time to test all 1.5757683358562108e+21 combinations from the set of 90 birthdays would be 1730117282.7568908 years.
-Which is 0.1256439566272252 time the age of the universe.
-Which is 0.38083145119015865 time the age of the earth.
+Found 0.52782% 52782 in 100000 sets of 23 birthdays in 1.84375 seconds. Time remaining 182.53125
+Found 0.529605% 105921 in 200000 sets of 23 birthdays in 4.359375 seconds. Time remaining 213.609375
+Found 0.53005% 159015 in 300000 sets of 23 birthdays in 7.03125 seconds. Time remaining 227.34375
+Found 0.5302325% 212093 in 400000 sets of 23 birthdays in 9.15625 seconds. Time remaining 219.75
+Found 0.529918% 264959 in 500000 sets of 23 birthdays in 11.40625 seconds. Time remaining 216.71875
+Found 0.52977% 317862 in 600000 sets of 23 birthdays in 13.765625 seconds. Time remaining 215.66145833333334
+Found 0.5297485714285715% 370824 in 700000 sets of 23 birthdays in 15.59375 seconds. Time remaining 207.17410714285717
+Found 0.529635% 423708 in 800000 sets of 23 birthdays in 18.171875 seconds. Time remaining 208.9765625
+Found 0.5294288888888888% 476486 in 900000 sets of 23 birthdays in 20.765625 seconds. Time remaining 209.96354166666669
+Found 0.529384% 529384 in 1000000 sets of 23 birthdays in 22.96875 seconds. Time remaining 206.71875
+Found 0.5292681818181818% 582195 in 1100000 sets of 23 birthdays in 25.1875 seconds. Time remaining 203.78977272727272
+Found 0.5291041666666667% 634925 in 1200000 sets of 23 birthdays in 27.453125 seconds. Time remaining 201.32291666666666
+Found 0.5293184615384615% 688114 in 1300000 sets of 23 birthdays in 29.328125 seconds. Time remaining 196.27283653846155
+Found 0.5293535714285714% 741095 in 1400000 sets of 23 birthdays in 31.703125 seconds. Time remaining 194.74776785714286
+Found 0.5293613333333334% 794042 in 1500000 sets of 23 birthdays in 34.421875 seconds. Time remaining 195.05729166666669
+Found 0.529268125% 846829 in 1600000 sets of 23 birthdays in 36.453125 seconds. Time remaining 191.37890625
+Found 0.529214705882353% 899665 in 1700000 sets of 23 birthdays in 38.71875 seconds. Time remaining 189.03860294117646
+Found 0.5291355555555556% 952444 in 1800000 sets of 23 birthdays in 41.171875 seconds. Time remaining 187.56076388888889
+Found 0.5291552631578947% 1005395 in 1900000 sets of 23 birthdays in 43.140625 seconds. Time remaining 183.9152960526316
+Found 0.529107% 1058214 in 2000000 sets of 23 birthdays in 45.46875 seconds. Time remaining 181.875
+Found 0.5290990476190476% 1111108 in 2100000 sets of 23 birthdays in 48.109375 seconds. Time remaining 180.9828869047619
+Found 0.5291436363636364% 1164116 in 2200000 sets of 23 birthdays in 50.25 seconds. Time remaining 178.1590909090909
+Found 0.5291682608695653% 1217087 in 2300000 sets of 23 birthdays in 52.5625 seconds. Time remaining 175.97010869565216
+Found 0.5291670833333333% 1270001 in 2400000 sets of 23 birthdays in 54.875 seconds. Time remaining 173.77083333333334
+Found 0.5293116% 1323279 in 2500000 sets of 23 birthdays in 56.734375 seconds. Time remaining 170.203125
+Found 0.5293315384615385% 1376262 in 2600000 sets of 23 birthdays in 59.25 seconds. Time remaining 168.6346153846154
+Found 0.5292577777777778% 1428996 in 2700000 sets of 23 birthdays in 61.9375 seconds. Time remaining 167.46064814814815
+Found 0.5292285714285714% 1481840 in 2800000 sets of 23 birthdays in 64.09375 seconds. Time remaining 164.8125
+Found 0.529238275862069% 1534791 in 2900000 sets of 23 birthdays in 66.53125 seconds. Time remaining 162.88685344827584
+Found 0.5291473333333333% 1587442 in 3000000 sets of 23 birthdays in 68.921875 seconds. Time remaining 160.81770833333331
+Found 0.5291309677419355% 1640306 in 3100000 sets of 23 birthdays in 70.828125 seconds. Time remaining 157.64969758064518
+Found 0.5290615625% 1692997 in 3200000 sets of 23 birthdays in 73.4375 seconds. Time remaining 156.0546875
+Found 0.5291148484848485% 1746079 in 3300000 sets of 23 birthdays in 76.03125 seconds. Time remaining 154.36647727272728
+Found 0.5290844117647059% 1798887 in 3400000 sets of 23 birthdays in 78.09375 seconds. Time remaining 151.59375
+Found 0.5290885714285715% 1851810 in 3500000 sets of 23 birthdays in 80.46875 seconds. Time remaining 149.44196428571428
+Found 0.5290677777777778% 1904644 in 3600000 sets of 23 birthdays in 82.796875 seconds. Time remaining 147.19444444444443
+Found 0.5291018918918919% 1957677 in 3700000 sets of 23 birthdays in 84.6875 seconds. Time remaining 144.19763513513513
+Found 0.5291352631578947% 2010714 in 3800000 sets of 23 birthdays in 87.359375 seconds. Time remaining 142.53371710526318
+Found 0.529131282051282% 2063612 in 3900000 sets of 23 birthdays in 89.90625 seconds. Time remaining 140.62259615384616
+Found 0.52907075% 2116283 in 4000000 sets of 23 birthdays in 92.0625 seconds. Time remaining 138.09375
+Found 0.5291295121951219% 2169431 in 4100000 sets of 23 birthdays in 94.328125 seconds. Time remaining 135.7404725609756
+Found 0.5291869047619048% 2222585 in 4200000 sets of 23 birthdays in 96.640625 seconds. Time remaining 133.4561011904762
+Found 0.5291851162790697% 2275496 in 4300000 sets of 23 birthdays in 98.359375 seconds. Time remaining 130.38335755813952
+Found 0.5292129545454546% 2328537 in 4400000 sets of 23 birthdays in 100.90625 seconds. Time remaining 128.42613636363635
+Found 0.5292104444444444% 2381447 in 4500000 sets of 23 birthdays in 103.421875 seconds. Time remaining 126.40451388888891
+Found 0.5291745652173913% 2434203 in 4600000 sets of 23 birthdays in 105.5 seconds. Time remaining 123.84782608695653
+Found 0.5291676595744681% 2487088 in 4700000 sets of 23 birthdays in 107.8125 seconds. Time remaining 121.57579787234042
+Found 0.5290966666666667% 2539664 in 4800000 sets of 23 birthdays in 109.875 seconds. Time remaining 119.03125
+Found 0.5291071428571429% 2592625 in 4900000 sets of 23 birthdays in 112.0 seconds. Time remaining 116.57142857142858
+Found 0.5291328% 2645664 in 5000000 sets of 23 birthdays in 114.75 seconds. Time remaining 114.75
+Found 0.529123725490196% 2698531 in 5100000 sets of 23 birthdays in 117.109375 seconds. Time remaining 112.51685049019608
+Found 0.5291211538461539% 2751430 in 5200000 sets of 23 birthdays in 119.328125 seconds. Time remaining 110.14903846153845
+Found 0.5291375471698113% 2804429 in 5300000 sets of 23 birthdays in 121.671875 seconds. Time remaining 107.89770047169813
+Found 0.5291127777777778% 2857209 in 5400000 sets of 23 birthdays in 123.859375 seconds. Time remaining 105.50983796296296
+Found 0.5291172727272727% 2910145 in 5500000 sets of 23 birthdays in 125.828125 seconds. Time remaining 102.9502840909091
+Found 0.5290817857142858% 2962858 in 5600000 sets of 23 birthdays in 128.484375 seconds. Time remaining 100.95200892857142
+Found 0.5291089473684211% 3015921 in 5700000 sets of 23 birthdays in 130.90625 seconds. Time remaining 98.75383771929825
+Found 0.5291381034482758% 3069001 in 5800000 sets of 23 birthdays in 132.953125 seconds. Time remaining 96.27640086206898
+Found 0.5291196610169492% 3121806 in 5900000 sets of 23 birthdays in 135.265625 seconds. Time remaining 93.99814618644069
+Found 0.5291433333333333% 3174860 in 6000000 sets of 23 birthdays in 137.5 seconds. Time remaining 91.66666666666666
+Found 0.5291445901639344% 3227782 in 6100000 sets of 23 birthdays in 139.40625 seconds. Time remaining 89.12858606557378
+Found 0.5291193548387096% 3280540 in 6200000 sets of 23 birthdays in 142.15625 seconds. Time remaining 87.12802419354838
+Found 0.5291312698412698% 3333527 in 6300000 sets of 23 birthdays in 144.625 seconds. Time remaining 84.93849206349205
+Found 0.5291425% 3386512 in 6400000 sets of 23 birthdays in 146.8125 seconds. Time remaining 82.58203125
+Found 0.5291316923076923% 3439356 in 6500000 sets of 23 birthdays in 149.3125 seconds. Time remaining 80.39903846153845
+Found 0.5291340909090909% 3492285 in 6600000 sets of 23 birthdays in 151.546875 seconds. Time remaining 78.06960227272725
+Found 0.5291229850746269% 3545124 in 6700000 sets of 23 birthdays in 153.59375 seconds. Time remaining 75.6506529850746
+Found 0.5291304411764706% 3598087 in 6800000 sets of 23 birthdays in 156.40625 seconds. Time remaining 73.60294117647061
+Found 0.5291224637681159% 3650945 in 6900000 sets of 23 birthdays in 158.734375 seconds. Time remaining 71.31544384057972
+Found 0.5291117142857142% 3703782 in 7000000 sets of 23 birthdays in 160.734375 seconds. Time remaining 68.88616071428572
+Found 0.5291011267605634% 3756618 in 7100000 sets of 23 birthdays in 163.21875 seconds. Time remaining 66.66681338028167
+Found 0.5290954166666667% 3809487 in 7200000 sets of 23 birthdays in 165.46875 seconds. Time remaining 64.34895833333334
+Found 0.5290791780821917% 3862278 in 7300000 sets of 23 birthdays in 167.453125 seconds. Time remaining 61.93471746575344
+Found 0.5290359459459459% 3914866 in 7400000 sets of 23 birthdays in 170.1875 seconds. Time remaining 59.7956081081081
+Found 0.5289997333333334% 3967498 in 7500000 sets of 23 birthdays in 172.78125 seconds. Time remaining 57.59375
+Found 0.5290198684210526% 4020551 in 7600000 sets of 23 birthdays in 174.875 seconds. Time remaining 55.2236842105263
+Found 0.5289968831168831% 4073276 in 7700000 sets of 23 birthdays in 177.3125 seconds. Time remaining 52.96347402597405
+Found 0.5289744871794871% 4126001 in 7800000 sets of 23 birthdays in 179.4375 seconds. Time remaining 50.610576923076906
+Found 0.5290037974683545% 4179130 in 7900000 sets of 23 birthdays in 181.453125 seconds. Time remaining 48.234375
+Found 0.52899025% 4231922 in 8000000 sets of 23 birthdays in 184.3125 seconds. Time remaining 46.07812499999997
+Found 0.52898% 4284738 in 8100000 sets of 23 birthdays in 186.6875 seconds. Time remaining 43.79089506172838
+Found 0.5289967073170732% 4337773 in 8200000 sets of 23 birthdays in 189.03125 seconds. Time remaining 41.494664634146346
+Found 0.5289738554216867% 4390483 in 8300000 sets of 23 birthdays in 191.609375 seconds. Time remaining 39.245293674698786
+Found 0.5289960714285714% 4443567 in 8400000 sets of 23 birthdays in 193.75 seconds. Time remaining 36.9047619047619
+Found 0.5290098823529412% 4496584 in 8500000 sets of 23 birthdays in 195.9375 seconds. Time remaining 34.57720588235293
+Found 0.5289981395348837% 4549384 in 8600000 sets of 23 birthdays in 198.65625 seconds. Time remaining 32.339389534883736
+Found 0.5289989655172413% 4602291 in 8700000 sets of 23 birthdays in 201.109375 seconds. Time remaining 30.05082614942529
+Found 0.5289861363636363% 4655078 in 8800000 sets of 23 birthdays in 203.359375 seconds. Time remaining 27.730823863636346
+Found 0.5289920224719101% 4708029 in 8900000 sets of 23 birthdays in 205.875 seconds. Time remaining 25.445224719101134
+Found 0.5289923333333333% 4760931 in 9000000 sets of 23 birthdays in 207.96875 seconds. Time remaining 23.107638888888914
+Found 0.5289885714285715% 4813796 in 9100000 sets of 23 birthdays in 210.171875 seconds. Time remaining 20.78622939560441
+Found 0.5289908695652173% 4866716 in 9200000 sets of 23 birthdays in 212.96875 seconds. Time remaining 18.519021739130437
+Found 0.528981182795699% 4919525 in 9300000 sets of 23 birthdays in 215.078125 seconds. Time remaining 16.188676075268802
+Found 0.5289904255319149% 4972510 in 9400000 sets of 23 birthdays in 217.28125 seconds. Time remaining 13.869015957446805
+Found 0.5289875789473685% 5025382 in 9500000 sets of 23 birthdays in 219.765625 seconds. Time remaining 11.56661184210526
+Found 0.5289860416666666% 5078266 in 9600000 sets of 23 birthdays in 221.84375 seconds. Time remaining 9.243489583333343
+Found 0.529009793814433% 5131395 in 9700000 sets of 23 birthdays in 223.984375 seconds. Time remaining 6.9273518041237025
+Found 0.5290408163265307% 5184600 in 9800000 sets of 23 birthdays in 226.71875 seconds. Time remaining 4.626913265306115
+Found 0.5290450505050505% 5237546 in 9900000 sets of 23 birthdays in 228.96875 seconds. Time remaining 2.3128156565656752
+Found 0.5290424% 5290424 in 10000000 sets of 23 birthdays in 231.265625 seconds. Time remaining 0.0
+Found 0.5290424% 5290424 in 10000000 sets of 23 birthdays in 231.265625 seconds. Time remaining 0.0
+elapsed time 231.265625, num steps 10000000
+Time to test all 1.5757683358562108e+21 combinations from the set of 90 birthdays would be 3.644210490469965e+16 seconds.
+Time to test all 1.5757683358562108e+21 combinations from the set of 90 birthdays would be 1155571565.978553 years.
+Which is 0.0839195037021462 time the age of the universe.
+Which is 0.25436310058960004 time the age of the earth.
+Which is 3851.90521992851 time the age of the humans.
