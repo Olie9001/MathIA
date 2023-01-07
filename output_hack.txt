@@ -1,0 +1,82 @@
+Percentile for hash space 365
+percentile 0.0, samples 2
+percentile 0.1, samples 9
+percentile 0.2, samples 13
+percentile 0.3, samples 17
+percentile 0.4, samples 20
+percentile 0.5, samples 23
+percentile 0.6, samples 26
+percentile 0.7, samples 30
+percentile 0.8, samples 34
+percentile 0.9, samples 41
+percentile 1.0, samples 182
+Percentile for hash bits 32
+Percentile for hash space 4.295e+9
+percentile 0.0, samples 8192
+percentile 0.1, samples 28672
+percentile 0.2, samples 43008
+percentile 0.3, samples 55296
+percentile 0.4, samples 65536
+percentile 0.5, samples 77824
+percentile 0.6, samples 88064
+percentile 0.7, samples 102400
+percentile 0.8, samples 118784
+percentile 0.9, samples 139264
+percentile 1.0, samples 2147483648
+Percentile for hash bits 128
+Percentile for hash space 3.4028e+38
+percentile 0.0, samples 2305843009213693952
+percentile 0.1, samples 8070450532247928832
+percentile 0.2, samples 12105675798371893248
+percentile 0.3, samples 15564440312192434176
+percentile 0.4, samples 18446744073709551616
+percentile 0.5, samples 21905508587530092544
+percentile 0.6, samples 24787812349047209984
+percentile 0.7, samples 28823037615171174400
+percentile 0.8, samples 33434723633598562304
+percentile 0.9, samples 39199331156632797184
+percentile 1.0, samples 170141183460469231731687303715884105728
+Samples for 0.5 probability
+Bits 32, p 0.5, samples 77824
+Bits 40, p 0.5, samples 1245184
+Bits 48, p 0.5, samples 19922944
+Bits 64, p 0.5, samples 5100273664
+Bits 96, p 0.5, samples 334251534843904
+Bits 128, p 0.5, samples 21905508587530092544
+Bits 192, p 0.5, samples 94083442985688900892333441024
+Bits 256, p 0.5, samples 404085310718614425362757346325224751104
+Bits 384, p 0.5, samples 7454058310771683407054999940059103869121547090301040984064
+Bits 512, p 0.5, samples 137503105969312982065490544697816890575758106790448169796855881009396841447424
+Samples for 0.9 probability
+Bits 32, p 0.9, samples 139264
+Bits 40, p 0.9, samples 2228224
+Bits 48, p 0.9, samples 35651584
+Bits 64, p 0.9, samples 9126805504
+Bits 96, p 0.9, samples 598134325510144
+Bits 128, p 0.9, samples 39199331156632797184
+Bits 192, p 0.9, samples 168359845342811717386280894464
+Bits 256, p 0.9, samples 723100029706994234859671040792507449344
+Bits 384, p 0.9, samples 13338841187696696623151052524316291134217505319486073339904
+Bits 512, p 0.9, samples 246058189629296915275088343143461804188198717414486198583847366016815400484864
+Facebook data breach 540000000
+bits 32, probability 1.0, num tests 1.0, num days 4.1667e-11
+bits 40, probability 1.0, num tests 1.0, num days 4.1667e-11
+bits 48, probability 1.0, num tests 1.0, num days 4.1667e-11
+bits 64, probability 0.0078727, num tests 127.02, num days 5.2926e-9
+bits 96, probability 1.8403e-12, num tests 5.434e+11, num days 22.642
+bits 128, probability 4.2847e-22, num tests 2.3339e+21, num days 9.7246e+10
+bits 192, probability 2.3227e-41, num tests 4.3053e+40, num days 1.7939e+30
+bits 256, probability 1.2592e-60, num tests 7.9418e+59, num days 3.3091e+49
+bits 384, probability 3.7003e-99, num tests 2.7025e+98, num days 1.126e+88
+bits 512, probability 1.0874e-137, num tests 9.196e+136, num days 3.8317e+126
+Yahoo data breach 3000000000
+bits 32, probability 1.0, num tests 1.0, num days 4.1667e-11
+bits 40, probability 1.0, num tests 1.0, num days 4.1667e-11
+bits 48, probability 1.0, num tests 1.0, num days 4.1667e-11
+bits 64, probability 0.21647, num tests 4.6196, num days 1.9248e-10
+bits 96, probability 5.6798e-11, num tests 1.7606e+10, num days 0.73359
+bits 128, probability 1.3224e-20, num tests 7.5618e+19, num days 3.1508e+9
+bits 192, probability 7.1689e-40, num tests 1.3949e+39, num days 5.8121e+28
+bits 256, probability 3.8863e-59, num tests 2.5732e+58, num days 1.0721e+48
+bits 384, probability 1.1421e-97, num tests 8.756e+96, num days 3.6483e+86
+bits 512, probability 3.3563e-136, num tests 2.9795e+135, num days 1.2415e+125
