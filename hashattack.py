@@ -31,6 +31,8 @@ def calcCollisionProbabilityBits(b, r):
     n = mpmath.power(2,b)
     return calcCollisionProbability(n, r)
 
+# For a given set size (n) and a desiered probability (p)
+# Iteratively refine an estimation of the sub set size (x)
 def calcCollisionSamples(n,p):
     e = mpmath.mpf(0.01)
     upper = n
